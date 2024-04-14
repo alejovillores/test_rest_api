@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/alejovillores/test_rest_api#readme",
   "dependencies": {
-    "express": "^4.19.2"
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "uuid": "^9.0.1"
   }
 }
